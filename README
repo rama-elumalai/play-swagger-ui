@@ -1,0 +1,9 @@
+# Swagger UI for the Play restful api application
+
+## Overview
+Utility class, which will read the play framework route file and create swagger json.  No more swagger annotation required to generate the swagger ui integration.
+
+swagger api - http://localhost:9000/swagger-ui/index.html
+
+##Version
+1.0 - Initial commit

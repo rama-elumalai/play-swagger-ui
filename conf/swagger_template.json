@@ -1,0 +1,16 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "CLMS APIs",
+    "version": "1.0.0",
+    "title": "CLMS"
+  },
+  "host": "localhost:9000",
+  "basePath": "/",
+  "schemes": [
+    "http"
+  ],
+  "paths": {
+    ABCDEFG
+  }
+}
